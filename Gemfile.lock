@@ -13,6 +13,7 @@ GEM
       rubyzip
     heroku-api (0.3.4)
       excon (~> 0.16.1)
+    json (1.7.5)
     launchy (2.1.2)
       addressable (~> 2.3)
     mime-types (1.19)
@@ -38,5 +39,6 @@ PLATFORMS
 
 DEPENDENCIES
   heroku
+  json
   sinatra
   thin
