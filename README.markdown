@@ -2,7 +2,7 @@
 
 Template for creating a super simple Ruby + Sinatra + Heroku API. For small uses Heroku is extremely cheap (even free) to host and build your app. Ruby + Sinatra makes it very easy to create a simple API that can be called from apps, websites, etc.
 
-Clone the file on your computer and then follow the instructions below. 
+Clone the files on your computer and then follow the instructions below. 
 
 
 ## To Use ##
